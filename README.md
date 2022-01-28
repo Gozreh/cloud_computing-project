@@ -1,4 +1,4 @@
-### *This is a backup of the original project*
+### *This is a backup of the original project found here: https://github.com/miniproject-cc/Library-Book-Inventory-Management-and-Search-API*
 
 # Cloud Computing Miniproject
 
